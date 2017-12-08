@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mindinfo_android.assemblyapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="ShivkantJi Nandwana"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".p.activities.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".p.activities.HomeActivity" />
+        <activity android:name=".p.activities.newsActivity" />
+        <activity android:name=".p.activities.SocialActivity" />
+        <activity android:name=".p.activities.MessageActivity" />
+        <activity android:name=".p.activities.SpeechActivity" />
+        <activity android:name=".p.activities.KotaActivity" />
+        <activity android:name=".p.activities.CongressActivity" />
+        <activity android:name=".p.activities.SocialPage" />
+        <activity android:name=".p.activities.LoginActivity" />
+        <activity android:name=".p.activities.RegistrationActivity"></activity>
+    </application>
+
+</manifest>

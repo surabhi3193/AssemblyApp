@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/son"
+        android:title="Son" />
+
+    <item
+        android:id="@+id/daughter"
+        android:title="Daughter" />
+    <item
+        android:id="@+id/wife"
+        android:title="Wife" />
+    <item
+        android:id="@+id/dil"
+        android:title="Daughter-in-law" />
+    <item
+        android:id="@+id/bro"
+        android:title="Brother" />
+    <item
+        android:id="@+id/sis"
+        android:title="Sister" />
+
+    <item
+        android:id="@+id/grandchild"
+        android:title="Grand Child" />
+
+
+
+
+</menu>

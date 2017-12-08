@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssemblyApp</string>
+    <string name="news_press">News / Press</string>
+    <string name="speeches">Speeches</string>
+    <string name="social_buzz">Social Buzz</string>
+    <string name="congress_news">Congress News</string>
+    <string name="total_family_members">Total Family Members</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="member_living_in_kota">Voter Living in Kota</string>
+    <string name="email_id">Email id</string>
+</resources>

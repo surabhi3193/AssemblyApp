@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorGreenPrimary">#01a858</color>
+    <color name="colorOrangePrimary">#f57e24</color>
+    <color name="fontcolor">#666666</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="group_divider_color">#80CBC4</color>
+    <color name="grey">#e3e3e3</color>
+    <color name="list_item_title">#AAAAAA</color>
+    <color name="list_group_title">#808080</color>
+    <color name="action_bar_colour">#263d8d</color>
+
+    <color name="business_port_text">#ff9933</color>
+    <color name="current_location">#006699</color>
+
+    <color name="colorHeader">#333333</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_item_selected_state">#F4F6F6</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+    <color name="text_title_head">#1f469f</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="Theme_Color">#58CF9A</color>
+    <color name="tabsScrollColor">#ffffff</color>
+    <color name="logo_color">#29B6F6</color>
+    <color name="dark_gray">#EBEBEB</color>
+    <color name="dark_pink">#E91E63</color>
+    <color name="light_sky">#29B6F6</color>
+    <color name="devider">#DFDFDF</color>
+    <color name="blue_title">#27546e</color>
+    <color name="gray_blue">#7B8695</color>
+    <color name="surf_blue">#0ED3DF</color>
+    <color name="light_blue">#b9d8f9</color>
+    <color name="white_dark">#FEFEF8</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="Yellow">#FFFF00</color>
+
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Peru">#CD853F</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Olive">#808000</color>
+    <color name="Purple">#800080</color>
+    <color name="Maroon">#800000</color>
+    <color name="Aquamarine">#7FFFD4</color>
+
+
+    <color name="DeepSkyBlue">#00BFFF</color>
+
+
+    <color name="Green">#008000</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="Blue">#0000FF</color>
+    <color name="MediumBlue">#0000CD</color>
+
+
+    <color name="light_gray">#CDCBCC</color>
+    <color name="label_color">#89E2C0</color>
+    <color name="faint_gray">#DDDDDD</color>
+
+
+    <!--Color for circular progress percentage-->
+
+
+    <color name="gray_light">#C0C0C0</color>
+
+    <color name="gray_medium">#848484</color>
+
+
+    <color name="black_grey">#5f5f5f</color>
+
+
+    <color name="yellow">#FFFF00</color>
+    <color name="turmeric_yellow">#ffb732</color>
+    <color name="gray">#808080</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black_charcoal">#36454f</color>
+    <color name="trans">#00000000</color>
+    <color name="dark_trans">#80000000</color>
+
+    <color name="Black">#000000</color>
+    <color name="gray_shade">#f3f3f3</color>
+    <color name="green_shade">#21ce99</color>
+</resources>
